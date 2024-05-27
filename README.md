@@ -1,5 +1,8 @@
 # Adversarial Flows
 
+![image](https://github.com/TimRoith/AdversarialFlows/assets/44805883/bd11042d-9a2c-4c60-9fd5-9a2882f9299a)
+
+
 This repository provides the code for the experiments in the paper "Adversarial Flows: A gradient flow characterization
 of adversarial attacks" by Lukas Weigand, Tim Roith, and Martin Burger.
 
