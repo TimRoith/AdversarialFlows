@@ -19,5 +19,7 @@ The following Notebooks are available:
 
 * ``Flows.ipynb``: This notebook computes and visualizes the iterates of IFGSM and the minizing movement scheme. The optimizers are defined in ``flows.py``
 
+Furthermore, the file ``compute_diffs.py`` provides an executable script, computing the difference between IFGSM and the minimizing movement scheme for different initial vlaues.
+
 
 ## Citation
