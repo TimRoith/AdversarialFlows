@@ -23,3 +23,12 @@ Furthermore, the file ``compute_diffs.py`` provides an executable script, comput
 
 
 ## Citation
+
+```LaTeX
+@article{weigand2024adversarial,
+  title={Adversarial flows: A gradient flow characterization of adversarial attacks},
+  author={Weigand, Lukas and Roith, Tim and Burger, Martin},
+  journal={arXiv preprint arXiv:2406.05376},
+  year={2024}
+}
+```
